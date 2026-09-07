@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 32 32" role="img" aria-label="Crocoeduu">
+  <rect width="32" height="32" rx="7" fill="#0a0d0a"/>
+  <path
+    fill="#8fd14f"
+    fill-rule="evenodd"
+    d="M15.2 4.8a10.6 10.6 0 1 0 .01 0zM23.6 16.2a6.1 6.1 0 1 0 .01 0zM13.8 10a3.5 3.5 0 1 0 .01 0z"/>
+  <path
+    fill="#8fd14f"
+    d="M13.8 4 16.4 8.2 12.2 7.6zm8.4 5.6 5.2 3.8-4.4 2.2-2.4-4.2zM18.4 18.6 20 23.8 16.8 20.2zm2  -.6 2 6-3.2-4.4zm2  -.4 2.4 5-3.4-3.8zm1.8-.8 2.6 3.8-3.4-3z"/>
+  <circle cx="14.6" cy="11.4" r="0.95" fill="#8fd14f"/>
+</svg>
